@@ -7,7 +7,7 @@
 </p>
 
 ## About Me:
-I am a junior front-end developer with a strong interest in building interactive and user-friendly web applications. I enjoy working with modern technologies and frameworks, and I am always looking for opportunities to learn and grow in the field of web development. My goal is to secure a job where I can apply my skills in various languages and technologies, continuously learn new technologies, and contribute effectively to exciting projects.
+I am a front-end developer with a strong interest in building interactive and user-friendly web applications. I enjoy working with modern technologies and frameworks, and I am always looking for opportunities to learn and grow in the field of web development. My goal is to secure a job where I can apply my skills in various languages and technologies, continuously learn new technologies, and contribute effectively to exciting projects.
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-Mohammed%20Fawzzi-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-fawzzi-72b962280/)](https://www.linkedin.com/in/mohamed-fawzzi-72b962280/)
