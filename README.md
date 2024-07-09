@@ -13,12 +13,6 @@ I am a front-end developer with a strong interest in building interactive and us
 [![LinkedIn](https://img.shields.io/badge/-Mohammed%20Fawzzi-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-fawzzi-72b962280/)](https://www.linkedin.com/in/mohamed-fawzzi-72b962280/)
 [![Gmail](https://img.shields.io/badge/-mohamedfawzzimohamed%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:mohamedfawzzimohamed@gmail.com)](mailto:mohamedfawzzimohamed@gmail.com)
 
-## Social Media Account:
-[![Twitter](https://img.shields.io/badge/-muhammed_fawzzi-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/muhammed_fawzzi)
-[![Facebook](https://img.shields.io/badge/-mofawzzi14-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mofawzzi14)
-[![Instagram](https://img.shields.io/badge/-mohamed.fawzzi-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mohamed.fawzzi)
-
-
 
 ## Languages:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
