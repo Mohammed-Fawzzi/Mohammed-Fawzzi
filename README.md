@@ -10,9 +10,12 @@
 I am a front-end developer with a strong interest in building interactive and user-friendly web applications. I enjoy working with modern technologies and frameworks, and I am always looking for opportunities to learn and grow in the field of web development. My goal is to secure a job where I can apply my skills in various languages and technologies, continuously learn new technologies, and contribute effectively to exciting projects.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-Mohammed%20Fawzzi-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-fawzzi98/)](https://www.linkedin.com/in/mohamed-fawzzi98/)
-[![Gmail](https://img.shields.io/badge/-mohamedfawzzimohamed%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:mohamedfawzzimohamed@gmail.com)](mailto:mohamedfawzzimohamed@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Fawzzi-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-fawzzi98/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-mohamedfawzzimohamed%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:mohamedfawzzimohamed@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%2010%202158%200334-25D366?style=flat\&logo=whatsapp\&logoColor=white)](https://wa.me/201021580334)
 
 ## Languages & Markup:
 
