@@ -2,12 +2,12 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&center=true&vCenter=true&width=800&height=80&lines=Front-End+Developer%3BReact+js+Developer%3BNext+js+Developer&size=50" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&center=true&vCenter=true&width=1000&height=80&lines=Frontend+Developer;React+%26+Next.js+Developer;React+Native+Developer;Web+%26+Mobile+Applications;Full-Stack+Apps+with+Next.js+%26+Firebase&size=50" alt="Typing SVG" />
     </a>
 </p>
 
 ## About Me:
-I am a front-end developer with a strong interest in building interactive and user-friendly web applications. I enjoy working with modern technologies and frameworks, and I am always looking for opportunities to learn and grow in the field of web development. My goal is to secure a job where I can apply my skills in various languages and technologies, continuously learn new technologies, and contribute effectively to exciting projects.
+Frontend Developer with 2+ years of experience building responsive web and mobile applications using React.js, Next.js, and React Native. Experienced in developing production-ready applications across multiple domains including e-commerce, e-learning, marketplaces, dashboards, and real-time platforms.
 
 ## Connect with me:
 
