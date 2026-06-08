@@ -11,11 +11,9 @@ I am a front-end developer with a strong interest in building interactive and us
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Fawzzi-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-fawzzi98/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-mohamedfawzzimohamed%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:mohamedfawzzimohamed@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%2010%202158%200334-25D366?style=flat\&logo=whatsapp\&logoColor=white)](https://wa.me/201021580334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fawzzi98/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfawzzimohamed@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201021580334)
 
 ## Languages & Markup:
 
